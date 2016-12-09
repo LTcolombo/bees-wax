@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4678F6FF-292F-D0CD-1472-79A3E304087A}") = "bees-wax", "Assembly-CSharp.csproj", "{DF27A7EC-19CD-F036-0654-1BCE4E0FAF37}"
+EndProject
+Project("{4678F6FF-292F-D0CD-1472-79A3E304087A}") = "bees-wax", "Assembly-CSharp-Editor.csproj", "{5A8BD80D-BFD2-D44A-58C7-76A9FED196AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF27A7EC-19CD-F036-0654-1BCE4E0FAF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF27A7EC-19CD-F036-0654-1BCE4E0FAF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF27A7EC-19CD-F036-0654-1BCE4E0FAF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF27A7EC-19CD-F036-0654-1BCE4E0FAF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8BD80D-BFD2-D44A-58C7-76A9FED196AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8BD80D-BFD2-D44A-58C7-76A9FED196AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8BD80D-BFD2-D44A-58C7-76A9FED196AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8BD80D-BFD2-D44A-58C7-76A9FED196AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
